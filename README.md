@@ -1,5 +1,5 @@
 ### Hello my name is William! 
-I'm currently studying my first out of two years at IT-högskolan as a java developer
+I'm currently studying my last year at IT-högskolan as a java developer
 
 <!--
 **williamDenStore/williamDenStore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
